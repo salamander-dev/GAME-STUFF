@@ -1,5 +1,3 @@
-# GAME-STUFF
-yes
 Version Alpha 1 (Unreleased)
 
 Components (Published);
